@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/officialayushyadav15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/officialayushyadav15/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
@@ -43,4 +44,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/officialayushyadav15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
