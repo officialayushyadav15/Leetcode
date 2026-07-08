@@ -14,6 +14,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -23,6 +24,7 @@
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/officialayushyadav15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/officialayushyadav15/Leetcode/tree/master/0075-sort-colors) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/officialayushyadav15/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3161-block-placement-queries) |
 ## Greedy
