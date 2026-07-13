@@ -151,4 +151,8 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3161-block-placement-queries) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/officialayushyadav15/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
