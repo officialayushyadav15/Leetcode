@@ -21,6 +21,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialayushyadav15/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -51,12 +53,14 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/officialayushyadav15/Leetcode/tree/master/0075-sort-colors) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +143,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/officialayushyadav15/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,4 +169,5 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialayushyadav15/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/officialayushyadav15/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
