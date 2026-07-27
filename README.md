@@ -13,6 +13,7 @@
 | [1260-shift-2d-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialayushyadav15/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -47,6 +48,7 @@
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialayushyadav15/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -55,6 +57,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
