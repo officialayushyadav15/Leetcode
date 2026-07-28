@@ -52,6 +52,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/officialayushyadav15/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -109,6 +110,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
