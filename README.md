@@ -18,6 +18,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/officialayushyadav15/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1914-cyclically-rotating-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialayushyadav15/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -150,6 +152,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialayushyadav15/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1914-cyclically-rotating-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
