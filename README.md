@@ -188,6 +188,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialayushyadav15/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/officialayushyadav15/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/officialayushyadav15/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
