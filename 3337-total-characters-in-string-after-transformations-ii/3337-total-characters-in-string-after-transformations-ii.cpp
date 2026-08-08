@@ -1,96 +1,60 @@
-class Solution 
-{
-    const int MOD = 1e9 + 7;
+using ll = long long;
 
+class Solution {
 public:
-    int lengthAfterTransformations(string s, int t, vector<int>& nums) 
-    {
-        int n = 26;
+    const int mod = 1e9 + 7;
 
-        // Step 1: Build transformation matrix
-        vector<vector<long long>> T(n, vector<long long>(n, 0));
-        for (int i = 0; i < n; ++i) 
-        {
-            int spread = nums[i];
-            for (int j = 1; j <= spread; ++j) 
-            {
-                int next = (i + j) % 26;
-                T[i][next] = (T[i][next] + 1) % MOD;
+    vector<vector<ll>> multiplyMatrices(const vector<vector<ll>> &A, const vector<vector<ll>> &B) {
+        int rowsA = A.size(), colsA = A[0].size(), colsB = B[0].size();
+        vector<vector<__int128_t>> temp(rowsA, vector<__int128_t>(colsB, 0));
+        vector<vector<ll>> result(rowsA, vector<ll>(colsB, 0));
+
+        for (int i = 0; i < rowsA; i++) {
+            for (int j = 0; j < colsB; j++) {
+                for (int k = 0; k < colsA; k++) {
+                    temp[i][j] += A[i][k] * B[k][j];
+                }
+                result[i][j] = temp[i][j] % mod;
             }
         }
-
-        // Step 2: Initial frequency vector
-        vector<long long> freq(n, 0);
-        for (char c : s)
-        {
-            freq[c - 'a']++;
-        }
-
-        // Step 3: Matrix exponentiation
-        auto T_pow = matrixPower(T, t);
-
-        // Step 4: Multiply freq vector with T^t
-        vector<long long> result(n, 0);
-        for (int i = 0; i < n; ++i)
-        {
-            for (int j = 0; j < n; ++j)
-            {
-                result[j] = (result[j] + freq[i] * T_pow[i][j]) % MOD;
-            }
-        }
-
-        // Step 5: Sum result
-        long long total = 0;
-        for (long long val : result)
-        {
-            total = (total + val) % MOD;
-        }
-        
-        return (int)total;
-    }
-
-private:
-    vector<vector<long long>> matrixPower(vector<vector<long long>>& base, int exp) 
-    {
-        int n = base.size();
-        vector<vector<long long>> result(n, vector<long long>(n, 0));
-        for (int i = 0; i < n; ++i)
-        {
-            result[i][i] = 1;
-        }
-
-        while (exp > 0) 
-        {
-            if (exp & 1)
-            {
-                result = multiply(result, base);
-            } 
-            
-            base = multiply(base, base);
-            exp >>= 1;
-        }
-
         return result;
     }
 
-    vector<vector<long long>> multiply(vector<vector<long long>>& A, vector<vector<long long>>& B)
-    {
-        int n = A.size();
-        vector<vector<long long>> res(n, vector<long long>(n, 0));
-        for (int i = 0; i < n; ++i)
-        {
-            for (int k = 0; k < n; ++k)
-            {
-                if (A[i][k] != 0)
-                {
-                    for (int j = 0; j < n; ++j)
-                    {
-                        res[i][j] = (res[i][j] + A[i][k] * B[k][j]) % MOD;
-                    }
-                }
+    vector<vector<ll>> powerMatrix(vector<vector<ll>> matrix, ll exponent) {
+        vector<vector<ll>> result(matrix.size(), vector<ll>(matrix.size(), 0));
+
+        for (int i = 0; i < matrix.size(); i++) result[i][i] = 1;
+
+        while (exponent > 0) {
+            if (exponent % 2 == 1) result = multiplyMatrices(result, matrix);
+            matrix = multiplyMatrices(matrix, matrix);
+            exponent /= 2;
+        }
+        return result;
+    }
+
+    int lengthAfterTransformations(string s, int t, vector<int>& nums) {
+        vector<vector<ll>> transform(26, vector<ll>(26, 0));
+
+        for (int i = 0; i < 26; i++) {
+            for (int shift = 0; shift < nums[i]; shift++) {
+                transform[i][(i + 1 + shift) % 26]++;
             }
         }
-                
-        return res;
+
+        transform = powerMatrix(transform, t);
+        vector<vector<ll>> freq(1, vector<ll>(26, 0));
+        for (char ch : s) {
+            freq[0][ch - 'a']++;
+        }
+
+        freq = multiplyMatrices(freq, transform);
+        int totalLength = 0;
+        for (int count : freq[0]) {
+            totalLength += count;
+            if (totalLength >= mod) totalLength -= mod;
+        }
+
+        return totalLength;
     }
 };
