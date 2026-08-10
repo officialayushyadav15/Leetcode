@@ -178,6 +178,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/officialayushyadav15/Leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialayushyadav15/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialayushyadav15/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 ## Math
@@ -185,6 +186,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialayushyadav15/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/officialayushyadav15/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -249,8 +251,25 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/officialayushyadav15/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
