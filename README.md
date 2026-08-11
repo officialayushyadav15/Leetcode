@@ -24,6 +24,7 @@
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialayushyadav15/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3161-block-placement-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -42,6 +43,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/officialayushyadav15/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialayushyadav15/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +62,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialayushyadav15/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/officialayushyadav15/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
