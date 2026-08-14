@@ -45,6 +45,7 @@
 | [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialayushyadav15/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialayushyadav15/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
@@ -128,6 +129,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialayushyadav15/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/officialayushyadav15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialayushyadav15/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
 | ------- |
