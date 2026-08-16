@@ -21,6 +21,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 | [2402-meeting-rooms-iii](https://github.com/officialayushyadav15/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/officialayushyadav15/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialayushyadav15/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -195,6 +198,7 @@
 | [0877-stone-game](https://github.com/officialayushyadav15/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialayushyadav15/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialayushyadav15/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialayushyadav15/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -260,6 +264,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/officialayushyadav15/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,10 +273,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -280,4 +287,5 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
