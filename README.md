@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/officialayushyadav15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/officialayushyadav15/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -69,6 +70,7 @@
 | [0075-sort-colors](https://github.com/officialayushyadav15/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/officialayushyadav15/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialayushyadav15/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialayushyadav15/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/officialayushyadav15/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -144,6 +146,7 @@
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/officialayushyadav15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/officialayushyadav15/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialayushyadav15/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -169,6 +172,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialayushyadav15/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/officialayushyadav15/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -294,6 +298,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -314,4 +319,8 @@
 | ------- |
 | [1510-stone-game-iv](https://github.com/officialayushyadav15/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/officialayushyadav15/Leetcode/tree/master/2029-stone-game-ix) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/officialayushyadav15/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
